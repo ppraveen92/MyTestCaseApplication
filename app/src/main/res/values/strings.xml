@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyUnitTestingApplication</string>
+    <string name="test_resource">Just Testing you</string>
 </resources>
